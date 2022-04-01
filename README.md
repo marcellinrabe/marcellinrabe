@@ -14,3 +14,8 @@
 
 <br/><br/><br/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellinrabe&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellinrabe&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
+
+<img
+  src="https://github.com/marcellinrabe/marcellinrabe/blob/main/images/stat.svg"
+  alt="marcellinrabe | activity"
+/>
