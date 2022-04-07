@@ -32,7 +32,9 @@
   
   </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
+  [Didy folon' Andriamanitra](https://marcellinrabe.github.io/didy-folo/)
+<br/><br/><br/><br/><br/>
   
   <p>Contacts</p>
   
