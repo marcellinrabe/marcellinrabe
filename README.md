@@ -37,7 +37,10 @@
   
   [Ireo didy folo](https://marcellinrabe.github.io/didy-folo/)
 <br/><br/><br/><br/><br/>
+  
 
+<img src='https://activity-graph.herokuapp.com/graph?username=marcellinrabe&theme=gotham&hide_border=true&bg_color=ffffff00' />
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcellinrabe&theme=default)](https://git.io/streak-stats)
   
   <p>Contacts</p>
