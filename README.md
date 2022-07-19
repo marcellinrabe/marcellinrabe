@@ -32,24 +32,21 @@
   
   </div>
 
+<br/><br/><br/><br/>
+<p> My suggest for you more than me </p>
+  
+[Ireo didy folo](https://marcellinrabe.github.io/didy-folo/)
 <br/><br/><br/><br/><br/>
-  <p> My suggest for you more than me </p>
-  
-  [Ireo didy folo](https://marcellinrabe.github.io/didy-folo/)
-<br/><br/><br/><br/><br/>
-  
-
-<img src='https://activity-graph.herokuapp.com/graph?username=marcellinrabe&theme=gotham&hide_border=true&bg_color=ffffff00' />
-  
+    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcellinrabe&theme=default)](https://git.io/streak-stats)
   
   <p>Contacts</p>
   
   <div>
     
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcellinp20.aps1a@gmail.com) 
-  [![Linkedin](https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcellinrabe/) 
-  [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/rabemarcellin)
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=social&logo=gmail)](mailto:marcellinp20.aps1a@gmail.com) 
+  [![Linkedin](https://img.shields.io/badge/-Linkedin-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/marcellinrabe/) 
+  [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2.svg?style=social&logo=Facebook)](https://www.facebook.com/rabemarcellin)
     
   </div>
 
