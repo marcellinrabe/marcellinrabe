@@ -31,16 +31,19 @@
   ![vs-code-shield](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
   
   </div>
+ </div>
 
-<br/><br/><br/><br/>
-<p> My suggest for you more than me </p>
+<h5 align="left"> My suggest for you more than me </h5>
   
 [Ireo didy folo](https://marcellinrabe.github.io/didy-folo/)
-<br/><br/><br/><br/><br/>
-    
+
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcellinrabe&theme=default)](https://git.io/streak-stats)
   
-  <p>Contacts</p>
+  </div>
+  
+  <h5>Contacts</h5>
   
   <div>
     
@@ -50,4 +53,3 @@
     
   </div>
 
-</div>
