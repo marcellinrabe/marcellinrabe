@@ -1,15 +1,10 @@
 
 <div align="center" >
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=4000&color=F7F000&center=true&vCenter=true&lines=Salama!;Hello!)](https://git.io/typing-svg)
 
   <h1>RABE Marcellin</h1>
-  
   <p>pseudo: <i>marcellinrabe</i></p>
-  
   <p>Antananarivo | Toamasina 🌴</p>
   <p>Madagascar</p>
-  
   <div>
   
  ![php](https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge)
